@@ -1,6 +1,6 @@
 # IAS NOTES | Tagaro, Ven Angel C. | 3BSIT-1
 
-## INTRODUCTION (Cybersecurity)
+## 1. INTRODUCTION (Cybersecurity)
 
 ![Header Image](./header.png)
 
@@ -12,20 +12,20 @@ It is the practice of protecting systems, networks , and programs from digital a
 
 ### Code Idea: CIA Triad
 
-ALmost everything in cybersecurity boils down to three main goals, as the **CIA Triad**
+Almost everything in cybersecurity boils down to three main goals, as the **CIA Triad**
 
 - **Confidentiality:** Keeping secrets secret (e.g., passwords, medical records, company data).
 - **Integrity:** Making sure datas remain accurate and not easily tampered by anyone.
 - **Availability:** Making sure systems stay up and usable when needed.
 
-## Team Mindsets
+### Team Mindsets
 
-### Red Team (Offensive Security):
+#### Red Team (Offensive Security):
 
 - Hack systems before malicious threat actors do.
 - Simulate real-world cyberattacks and attempt to breach an organization's defenses to identify vulnerabilities.
 
-### Blue Team (Defensive Security):
+#### Blue Team (Defensive Security):
 
 - Path security gaps before adversaries find and exploit them.
 - Monitor network traffic for suspicious activity and implement firewalls.
@@ -84,9 +84,7 @@ ALmost everything in cybersecurity boils down to three main goals, as the **CIA 
   - **Tactics (The "Why"):** The attacker's short-term tactical goal (e.g., Initial Access, Persistence, Privilege Escalation).
   - **Techniques (The "How"):** The specific method used to achieve the tactic (e.g., Phishing, Token Manipulation).
 
----
-
-## Encryption Fundmentals (Cryptography)
+## 2. Encryption Fundmentals (Cryptography)
 
 ### The Principles of Cryptography
 
@@ -126,9 +124,7 @@ ALmost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Certificate Authority (CA):** Issues certificates, validates holder identity, and uses its digital signature to guarantee authenticity.
 - **Digital Certificates (X.509):** Verify the identity of the holder and provide the holder's public key to facilitate encryption and digital signatures.
 
----
-
-## Cloud & Virtualization (Fundamentals)
+## 3. Cloud & Virtualization (Fundamentals)
 
 ### Hypervisors: Definition and Role
 
