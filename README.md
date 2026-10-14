@@ -18,6 +18,8 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Integrity:** Making sure datas remain accurate and not easily tampered by anyone.
 - **Availability:** Making sure systems stay up and usable when needed.
 
+> To know more about the **CIA Triad**, click this [link.](https://www.wallarm.com/what/cia-triad-definition)
+
 ### Team Mindsets
 
 #### 🔴 Red Team (Offensive Security):
