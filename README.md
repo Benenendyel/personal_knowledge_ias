@@ -20,17 +20,17 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 
 ### Team Mindsets
 
-#### Red Team (Offensive Security):
+#### 🔴 Red Team (Offensive Security):
 
 - Hack systems before malicious threat actors do.
 - Simulate real-world cyberattacks and attempt to breach an organization's defenses to identify vulnerabilities.
 
-#### Blue Team (Defensive Security):
+#### 🔵 Blue Team (Defensive Security):
 
 - Path security gaps before adversaries find and exploit them.
 - Monitor network traffic for suspicious activity and implement firewalls.
 
-#### Purple Team (Collaborative):
+#### 🟣 Purple Team (Collaborative):
 
 - Basically fuses both Red and Blue efforts to ensure offensive findings directly improve defensive tools.
 
@@ -159,4 +159,4 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
   - Scans for malware and rogue devices.
   - Reduces the risk of data theft.
 
-- > **Examples:** Solutions like Skyhigh Security, Forcepoint, Blue Coat, and CloudLock.
+> **Examples:** Solutions like Skyhigh Security, Forcepoint, Blue Coat, and CloudLock.
