@@ -136,6 +136,8 @@ All three pillars are basically essential for effective defense.
 
 ## 3. Cloud & Virtualization (Fundamentals)
 
+![Header Image](./third_header.png)
+
 ### Hypervisors: Definition and Role
 
 - **Hypervisor:** A specialized software, firmware, or hardware layer that abstracts and manages underlying physical hardware to create and run virtualized operating systems (virtual machines).
