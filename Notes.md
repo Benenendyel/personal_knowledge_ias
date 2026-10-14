@@ -1,6 +1,6 @@
 # IAS NOTES | Tagaro, Ven Angel C. | 3BSIT-1
 
-## INTRODUCTION (Cybersecurity)
+## 1. INTRODUCTION (Cybersecurity)
 
 ![Header Image](./header.png)
 
@@ -84,7 +84,7 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
   - **Tactics (The "Why"):** The attacker's short-term tactical goal (e.g., Initial Access, Persistence, Privilege Escalation).
   - **Techniques (The "How"):** The specific method used to achieve the tactic (e.g., Phishing, Token Manipulation).
 
-## Encryption Fundmentals (Cryptography)
+## 2. Encryption Fundmentals (Cryptography)
 
 ### The Principles of Cryptography
 
@@ -124,9 +124,7 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Certificate Authority (CA):** Issues certificates, validates holder identity, and uses its digital signature to guarantee authenticity.
 - **Digital Certificates (X.509):** Verify the identity of the holder and provide the holder's public key to facilitate encryption and digital signatures.
 
----
-
-## Cloud & Virtualization (Fundamentals)
+## 3. Cloud & Virtualization (Fundamentals)
 
 ### Hypervisors: Definition and Role
 
