@@ -18,8 +18,6 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Integrity:** Making sure datas remain accurate and not easily tampered by anyone.
 - **Availability:** Making sure systems stay up and usable when needed.
 
-<br>
-
 ### Team Mindsets
 
 #### Red Team (Offensive Security):
@@ -86,6 +84,8 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
   - **Tactics (The "Why"):** The attacker's short-term tactical goal (e.g., Initial Access, Persistence, Privilege Escalation).
   - **Techniques (The "How"):** The specific method used to achieve the tactic (e.g., Phishing, Token Manipulation).
 
+<br>
+
 ## 2. Encryption Fundmentals (Cryptography)
 
 ### The Principles of Cryptography
@@ -125,6 +125,8 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 
 - **Certificate Authority (CA):** Issues certificates, validates holder identity, and uses its digital signature to guarantee authenticity.
 - **Digital Certificates (X.509):** Verify the identity of the holder and provide the holder's public key to facilitate encryption and digital signatures.
+
+<br>
 
 ## 3. Cloud & Virtualization (Fundamentals)
 
