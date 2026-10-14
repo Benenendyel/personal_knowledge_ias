@@ -42,7 +42,7 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Processes:** Define security procedures and responses.
 - **Technology:** Provides tools to protect systems.
 
-> **All three pillars are essential for effective defense.**
+All three pillars are basically essential for effective defense.
 
 ### Key Security Concepts
 
@@ -91,6 +91,8 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 <br>
 
 ## 2. Encryption Fundmentals (Cryptography)
+
+![Header Image](./second_header.webp)
 
 ### The Principles of Cryptography
 
