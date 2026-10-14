@@ -18,6 +18,8 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - **Integrity:** Making sure datas remain accurate and not easily tampered by anyone.
 - **Availability:** Making sure systems stay up and usable when needed.
 
+<br>
+
 ### Team Mindsets
 
 #### Red Team (Offensive Security):
@@ -30,7 +32,7 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
 - Path security gaps before adversaries find and exploit them.
 - Monitor network traffic for suspicious activity and implement firewalls.
 
-### Purple Team (Collaborative):
+#### Purple Team (Collaborative):
 
 - Basically fuses both Red and Blue efforts to ensure offensive findings directly improve defensive tools.
 
