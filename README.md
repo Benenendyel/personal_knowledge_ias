@@ -73,7 +73,7 @@ Almost everything in cybersecurity boils down to three main goals, as the **CIA 
   5. **Covering Tracks ("Erasing Our Footprints"):** Deleting logs, history commands, and artifacts.
   6. **Reporting ("Documentation and Communication"):** Delivering test findings and suggested countermeasures to management.
 
-Visit this link [Things](https://informationsecurity.wustl.edu/vulnerabilities-threats-and-risks-explained/) for more explanations.
+Visit this [link](https://informationsecurity.wustl.edu/vulnerabilities-threats-and-risks-explained/) for more explanations.
 
 ### Threat Frameworks & Methodologies
 
